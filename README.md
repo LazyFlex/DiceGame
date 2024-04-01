@@ -34,3 +34,7 @@ The application was initially deployed on a virtual EC2 machine on AWS for remot
 
 1. **Real-Time Updates:** Provides real-time updates on player scores, current turns, and dynamically displays the rolled die for an engaging user experience.
 2. **New Game Functionality:** Allows players to start a new game, resetting scores and initiating a fresh round of play.
+
+[Video Demonstration](Game 4
+YouTube Link
+https://youtu.be/DHZy6VGgOzY)
