@@ -2,6 +2,7 @@
 # Dice Game
 
 **Introduction**
+
 The Dice Game web application was developed to provide users with a simple and
 enjoyable two-player gaming experience. The game involves rolling a virtual six-sided
 die, with players taking turns to accumulate points. The following is an overview of the
