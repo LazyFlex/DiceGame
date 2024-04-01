@@ -29,6 +29,7 @@ The Dice Game web application offers users a straightforward and entertaining tw
 ## Deployment
 
 The application was initially deployed on a virtual EC2 machine on AWS for remote access. After exhausting the free credit, it was migrated to vercel.com for continued availability.
+[Link To Website](https://dice-game-lime-pi.vercel.app/)
 
 ## User Experience
 
