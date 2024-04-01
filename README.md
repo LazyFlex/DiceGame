@@ -1,5 +1,7 @@
 # Dice Game
 
+
+
 ## Introduction
 
 The Dice Game web application offers users a straightforward and entertaining two-player gaming experience. Players take turns rolling a virtual six-sided die to accumulate points. This document provides an overview of the game's rules, technologies used, game logic, and deployment details.
@@ -30,11 +32,12 @@ The Dice Game web application offers users a straightforward and entertaining tw
 
 The application was initially deployed on a virtual EC2 machine on AWS for remote access. After exhausting the free credit, it was migrated to vercel.com for continued availability.
 
-[Website](https://dice-game-lime-pi.vercel.app/)
 
 ## User Experience
 
 1. **Real-Time Updates:** Provides real-time updates on player scores, current turns, and dynamically displays the rolled die for an engaging user experience.
 2. **New Game Functionality:** Allows players to start a new game, resetting scores and initiating a fresh round of play.
 
-[Video Demonstration](https://youtu.be/DHZy6VGgOzY)
+## Links
+
+[Website](https://dice-game-lime-pi.vercel.app/) | [Video Demonstration](https://youtu.be/DHZy6VGgOzY)
