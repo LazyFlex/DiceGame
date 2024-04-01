@@ -1,5 +1,5 @@
 
-#Dice Game
+# Dice Game
 
 **Introduction**
 The Dice Game web application was developed to provide users with a simple and
