@@ -36,6 +36,7 @@ more points.
 The winner is determined based on the highest score at this point.
 
 **Deployment**
+
 The application is initially deployed in a virtual EC2 machine on AWS, allowing for remote access until the free credit were done. Then it  was deployed on vercel.com
 
 **User Experience**
@@ -46,5 +47,4 @@ dynamically displays the rolled die for an engaging user experience.
 Players have the option to start a new game, resetting scores and initiating a
 fresh round of play.
 
-**YouTube Link**
-https://youtu.be/DHZy6VGgOzY
+[**YouTube Link**](https://youtu.be/DHZy6VGgOzY)
